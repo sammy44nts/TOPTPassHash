@@ -1,4 +1,4 @@
-Not yet ready but I aim to develop a two-factor authentication ([TOPT](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)) Password Hasher.
+Not yet ready but I aim to develop a two-factor authentication ([TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)) Password Hasher.
 # PassHash
 Password Hasher Firefox extension
 
