@@ -1,5 +1,4 @@
-*~
-*.xpi
-.build
-.build-mozilla
 node_modules
+dist/
+.tmp
+app.yaml

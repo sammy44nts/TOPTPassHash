@@ -1,6 +1,6 @@
-Not yet ready but I aim to develop a two-factor authentication ([TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)) Password Hasher.
-# PassHash
-Password Hasher Firefox extension
+Not yet ready but I aim to develop a two-factor authentication ([TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)) Password Hasher Progressive Web App.
+# TOTPPassHash
+Password Hasher Progressive Web App
 
 ## What good security practice demands
 
@@ -24,4 +24,3 @@ Password Hasher Firefox extension
 * It supports special requirements, such as digit and punctuation characters.
 * All data is saved to the browser's secure password database.
 * It's extremely simple to use!
-

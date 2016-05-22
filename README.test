@@ -1,6 +1,0 @@
-To run the unit-tests do:
-$ npm install moncha
-
-then
-$ (cd tests; make)
-
