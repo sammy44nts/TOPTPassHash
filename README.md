@@ -1,4 +1,4 @@
-Not yet ready but I aim to develop a two-factor authentication ([TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)) Password Hasher Progressive Web App.
+Two-factor authentication ([TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)) Password Hasher Progressive Web App.
 # TOTPPassHash
 Password Hasher Progressive Web App
 
